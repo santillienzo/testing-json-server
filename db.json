@@ -1,5 +1,6 @@
 {
-    "notifications": [
+    "notifications": {
+     "notifications": [
         {
             "id": 1,
             "type": "MONITORING",
@@ -54,5 +55,7 @@
             "created_at": "2024-04-11T15:20:00.000Z",
             "updated_at": "2024-04-11T15:20:00.000Z"
         }
-    ]
+    ],
+        success: true
+    }
 }
