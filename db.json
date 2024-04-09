@@ -1,58 +1,61 @@
 {
-    "notifications": [
-        {
-            "id": 1,
-            "type": "MONITORING",
-            "title": "Error en sistema",
-            "body": "Hubo un error en el sistema de TAD. Revisarlo lo antes posible.",
-            "read": false,
-            "created_at": "2024-04-09T14:00:00.000Z",
-            "updated_at": "2024-04-09T14:00:00.000Z"
-        },
-        {
-            "id": 2,
-            "type": "APOSTILLA",
-            "title": "Apostilla finalizada correctamente",
-            "body": "La apostilla con Nro de ref. 110229699 se finalizó correctamente.",
-            "read": false,
-            "created_at": "2024-04-09T14:00:00.000Z",
-            "updated_at": "2024-04-09T14:00:00.000Z"
-        },
-        {
-            "id": 3,
-            "type": "MONITORING",
-            "title": "Error crítico en servidor",
-            "body": "Se detectó un error crítico en el servidor principal. Se requiere intervención inmediata.",
-            "read": false,
-            "created_at": "2024-04-10T08:45:00.000Z",
-            "updated_at": "2024-04-10T08:45:00.000Z"
-        },
-        {
-            "id": 4,
-            "type": "APOSTILLA",
-            "title": "Solicitud de apostilla en proceso",
-            "body": "La solicitud de apostilla con Nro de ref. 110229700 se encuentra en proceso de validación.",
-            "read": false,
-            "created_at": "2024-04-10T10:30:00.000Z",
-            "updated_at": "2024-04-10T10:30:00.000Z"
-        },
-        {
-            "id": 5,
-            "type": "MONITORING",
-            "title": "Actualización de sistema requerida",
-            "body": "Es necesario aplicar una actualización de seguridad en el sistema de monitoreo. Por favor, proceda con la instalación.",
-            "read": false,
-            "created_at": "2024-04-11T12:00:00.000Z",
-            "updated_at": "2024-04-11T12:00:00.000Z"
-        },
-        {
-            "id": 6,
-            "type": "APOSTILLA",
-            "title": "Apostilla rechazada",
-            "body": "La apostilla con Nro de ref. 110229701 ha sido rechazada. Por favor, revise los documentos adjuntos para más detalles.",
-            "read": false,
-            "created_at": "2024-04-11T15:20:00.000Z",
-            "updated_at": "2024-04-11T15:20:00.000Z"
-        }
-    ]
+    "notifications": {
+        "notifications": [
+            {
+                "id": 1,
+                "type": "MONITORING",
+                "title": "Error en sistema",
+                "body": "Hubo un error en el sistema de TAD. Revisarlo lo antes posible.",
+                "read": false,
+                "created_at": "2024-04-09T14:00:00.000Z",
+                "updated_at": "2024-04-09T14:00:00.000Z"
+            },
+            {
+                "id": 2,
+                "type": "APOSTILLA",
+                "title": "Apostilla finalizada correctamente",
+                "body": "La apostilla con Nro de ref. 110229699 se finalizó correctamente.",
+                "read": false,
+                "created_at": "2024-04-09T14:00:00.000Z",
+                "updated_at": "2024-04-09T14:00:00.000Z"
+            },
+            {
+                "id": 3,
+                "type": "MONITORING",
+                "title": "Error crítico en servidor",
+                "body": "Se detectó un error crítico en el servidor principal. Se requiere intervención inmediata.",
+                "read": false,
+                "created_at": "2024-04-10T08:45:00.000Z",
+                "updated_at": "2024-04-10T08:45:00.000Z"
+            },
+            {
+                "id": 4,
+                "type": "APOSTILLA",
+                "title": "Solicitud de apostilla en proceso",
+                "body": "La solicitud de apostilla con Nro de ref. 110229700 se encuentra en proceso de validación.",
+                "read": false,
+                "created_at": "2024-04-10T10:30:00.000Z",
+                "updated_at": "2024-04-10T10:30:00.000Z"
+            },
+            {
+                "id": 5,
+                "type": "MONITORING",
+                "title": "Actualización de sistema requerida",
+                "body": "Es necesario aplicar una actualización de seguridad en el sistema de monitoreo. Por favor, proceda con la instalación.",
+                "read": false,
+                "created_at": "2024-04-11T12:00:00.000Z",
+                "updated_at": "2024-04-11T12:00:00.000Z"
+            },
+            {
+                "id": 6,
+                "type": "APOSTILLA",
+                "title": "Apostilla rechazada",
+                "body": "La apostilla con Nro de ref. 110229701 ha sido rechazada. Por favor, revise los documentos adjuntos para más detalles.",
+                "read": false,
+                "created_at": "2024-04-11T15:20:00.000Z",
+                "updated_at": "2024-04-11T15:20:00.000Z"
+            }
+        ],
+        "success": true
+    }
 }
