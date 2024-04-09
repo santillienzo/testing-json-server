@@ -50,7 +50,7 @@
             "type": "APOSTILLA",
             "title": "Apostilla rechazada",
             "body": "La apostilla con Nro de ref. 110229701 ha sido rechazada. Por favor, revise los documentos adjuntos para más detalles.",
-            "read": false,
+            "read": true,
             "created_at": "2024-04-11T15:20:00.000Z",
             "updated_at": "2024-04-11T15:20:00.000Z"
         }
